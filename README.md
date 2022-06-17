@@ -2,7 +2,7 @@
 
 Desenvolvido a partir do video de Larrisa Kich liberado no youtube.
 
-### Link para o video e repositório
+## Link para o video e repositório
 
 [Formulário de Cadastro RESPONSIVO (Responsive Registration Form) | HTML e CSS](https://www.youtube.com/watch?v=zWw0npNDkVM)
 
