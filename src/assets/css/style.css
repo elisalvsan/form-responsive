@@ -18,7 +18,7 @@ body {
 
 .container {
   width: 80%;
-  height: 80vh;
+  height: 100vh;
   display: flex;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.212);
 }
@@ -148,7 +148,7 @@ body {
 }
 
 .gender-input label {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   color: #000000c0;
 }
@@ -179,11 +179,12 @@ body {
     display: none;
   }
   .container {
-    width: 65%;
+    width: 50%;
   }
   .form {
     width: 100%;
   }
+  
 }
 
 @media screen and (max-width: 1064px) {
